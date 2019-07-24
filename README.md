@@ -1,7 +1,6 @@
 
 
 [![GitHub issues](https://img.shields.io/github/issues/MiracleSev/MiracleSev.github.io.svg?style=flat)](https://github.com/MiracleSev/MiracleSev.github.io/issues)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
 [![](https://img.shields.io/github/stars/MiracleSev/MiracleSev.github.io.svg?style=social&label=Star)](https://github.com/MiracleSev/MiracleSev.github.io)
 [![](https://img.shields.io/github/forks/MiracleSev/MiracleSev.github.io.svg?style=social&label=Fork)](https://github.com/MiracleSev/MiracleSev.github.io)
 
