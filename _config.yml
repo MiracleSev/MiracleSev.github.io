@@ -63,8 +63,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 6c433dc1a521da407e77                            #生成的clientID
+  clientSecret: 0d8a2213c880f5278c53e13dbc5eb8f4e4dd9272    #生成的clientSecret
   repo: MiracleSev.github.io    #仓库名称
   owner: MiracleSev    #github用户名
   admin: MiracleSev
