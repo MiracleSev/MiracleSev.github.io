@@ -1,7 +1,5 @@
 
 
-[![Build Status](https://travis-ci.org/MiracleSev/MiracleSev.github.io.svg?branch=master)](https://travis-ci.org/MiracleSev/MiracleSev.github.io)
-[![codebeat badge](https://codebeat.co/badges/5f031df3-f6c1-4ec0-911a-ff6617ca50b9)](https://codebeat.co/projects/github-com-qiubaiying-qiubaiying-github-io-master)
 [![GitHub issues](https://img.shields.io/github/issues/MiracleSev/MiracleSev.github.io.svg?style=flat)](https://github.com/MiracleSev/MiracleSev.github.io/issues)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/home-assistant/home-assistant-iOS/blob/master/LICENSE)
 [![](https://img.shields.io/github/stars/MiracleSev/MiracleSev.github.io.svg?style=social&label=Star)](https://github.com/MiracleSev/MiracleSev.github.io)
@@ -199,7 +197,7 @@ iframe在不同的设备中，将会自动的调整大小。保留内边距是�
 ```
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: MiracleSev
 ```
 
 #### Gitalk
