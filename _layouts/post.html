@@ -63,19 +63,19 @@ layout: default
 
                 <section class="share">
                     <h4>Share this post</h4>
-                    <a href="http://twitter.com/share?text={{ page.title }}&amp;url=https://draveness.mekubernetes-daemonset" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <a href="http://twitter.com/share?text={{ page.title }}&amp;url={{ page.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                         <span class="fa-stack fa-lg">
                             <i class="fa fa-circle fa-stack-2x"></i>
                             <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                    <a href="https://www.facebook.com/sharer/sharer.php?u=https://draveness.mekubernetes-daemonset" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url }}" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                         <span class="fa-stack fa-lg">
                             <i class="fa fa-circle fa-stack-2x"></i>
                             <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
                         </span>
                     </a>
-                    <a href="https://service.weibo.com/share/share.php?title={{ page.title }}&amp;url=https://draveness.mekubernetes-daemonset" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <a href="https://service.weibo.com/share/share.php?title={{ page.title }}&amp;url={{ page.url }}" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                         <span class="fa-stack fa-lg">
                             <i class="fa fa-circle fa-stack-2x"></i>
                             <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
