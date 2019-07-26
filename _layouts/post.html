@@ -59,8 +59,6 @@ layout: default
 
 				{{ content }}
 
-                <hr style="visibility: hidden;">
-
                 <section class="share">
                     <h5>分享</h5>
                     <a href="http://twitter.com/share?text={{ page.title }}&amp;url={{site.url}}{{ page.url }}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
@@ -82,6 +80,8 @@ layout: default
                         </span>
                     </a>
                 </section>
+
+                <hr style="visibility: hidden;">
 
                 <ul class="pager">
                     {% if page.previous.url %}
