@@ -47,12 +47,12 @@
 ```
 # Site settings
 title: GCC Blog                    # 你的博客网站标题
-SEOTitle: MiracleSev | GCC Blog		# SEO 标题
+SEOTitle: GCC | GCC Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: MiracleSev     # 你的github账号
-twitter_username: DoublimGuo  # 你的Twitter账号。
+github_username: GCC     # 你的github账号
+twitter_username: SevOracle  # 你的Twitter账号。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -142,7 +142,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "MiracleSev",
+        title: "GCC",
         href: "http://www.igcc.tk"
     },{
         title: "Apple",
