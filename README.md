@@ -8,7 +8,7 @@
 博客的搭建教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 
 
 >
-### [查看博客戳这里 👆](https://www.miraclesev.tk)
+### [查看博客戳这里 👆](https://www.igcc.tk)
 
 
 
@@ -143,7 +143,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 friends: [
     {
         title: "MiracleSev",
-        href: "http://www.miraclesev.tk"
+        href: "http://www.igcc.tk"
     },{
         title: "Apple",
         href: "https://apple.com"
@@ -216,7 +216,7 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Google Analytics
 ga_track_id: 'UA-144521871-1'            # 你用Google账号去注册一个就会给你一个这样的id
-ga_domain: www.miraclesev.tk			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
+ga_domain: www.igcc.tk			# 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto。
 ```
 
 ### Customization
